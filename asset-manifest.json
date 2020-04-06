@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rogerio-romao/React-Todo-App/static/css/main.6fbdedcc.chunk.css",
+    "main.js": "/rogerio-romao/React-Todo-App/static/js/main.0e35b054.chunk.js",
+    "main.js.map": "/rogerio-romao/React-Todo-App/static/js/main.0e35b054.chunk.js.map",
+    "runtime-main.js": "/rogerio-romao/React-Todo-App/static/js/runtime-main.2c2c0d81.js",
+    "runtime-main.js.map": "/rogerio-romao/React-Todo-App/static/js/runtime-main.2c2c0d81.js.map",
+    "static/js/2.3dbd836e.chunk.js": "/rogerio-romao/React-Todo-App/static/js/2.3dbd836e.chunk.js",
+    "static/js/2.3dbd836e.chunk.js.map": "/rogerio-romao/React-Todo-App/static/js/2.3dbd836e.chunk.js.map",
+    "index.html": "/rogerio-romao/React-Todo-App/index.html",
+    "precache-manifest.68cf92ec735a253b5af30b27262ce5f8.js": "/rogerio-romao/React-Todo-App/precache-manifest.68cf92ec735a253b5af30b27262ce5f8.js",
+    "service-worker.js": "/rogerio-romao/React-Todo-App/service-worker.js",
+    "static/css/main.6fbdedcc.chunk.css.map": "/rogerio-romao/React-Todo-App/static/css/main.6fbdedcc.chunk.css.map",
+    "static/js/2.3dbd836e.chunk.js.LICENSE.txt": "/rogerio-romao/React-Todo-App/static/js/2.3dbd836e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c2c0d81.js",
+    "static/js/2.3dbd836e.chunk.js",
+    "static/css/main.6fbdedcc.chunk.css",
+    "static/js/main.0e35b054.chunk.js"
+  ]
+}
